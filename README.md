@@ -35,6 +35,7 @@ Check all my projects here:
 
 📊 GitHub Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Anushkagill&show_icons=true&theme=default" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushkagill&theme=default" height="160"/> </p>
+
 🤝 Connect with Me
 
 📩 Open to internships & collaboration opportunities
