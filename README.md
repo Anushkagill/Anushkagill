@@ -34,7 +34,14 @@ Check all my projects here:
 👉 https://github.com/Anushkagill?tab=repositories
 
 📊 GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Anushkagill&show_icons=true&theme=default" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushkagill&theme=default" height="160"/> </p>
+<p align="left">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=Anushkagill&show_icons=true&theme=transparent" 
+       height="160" />
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Anushkagill&theme=transparent" 
+       height="160" />
+</p>
 
 🤝 Connect with Me
 
