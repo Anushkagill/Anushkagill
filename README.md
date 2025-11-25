@@ -35,7 +35,6 @@ Check all my projects here:
 
 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anushkagill&show_icons=true&theme=transparent" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushkagill&theme=transparent" height="160" />
 </p>
 
