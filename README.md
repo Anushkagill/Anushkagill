@@ -20,23 +20,23 @@ Competitive Programming
 
 Frontend
 
-HTML5, CSS3
-JavaScript (ES6+)
-React.js
-Tailwind CSS
-Backend
-Node.js
-Express.js
-REST APIs
-Authentication (JWT, Cookies)
-Middleware, MVC Architecture
+HTML5, CSS3,
+JavaScript (ES6+),
+React.js,
+Tailwind CSS,
+Backend,
+Node.js,
+Express.js,
+REST APIs,
+Authentication (JWT, Cookies),
+Middleware, MVC Architecture,
 
 Database & Tools
 
-MongoDB
-Appwrite (Auth, Database, Storage)
-Git & GitHub
-Postman
+MongoDB,
+Appwrite (Auth, Database, Storage),
+Git & GitHub,
+Postman,
 
 🚀 Highlighted Projects
 
@@ -47,12 +47,12 @@ A production-ready blogging app with authentication, CRUD, image upload and resp
 
 🔹 YouTube + Twitter Clone (Full Stack – Ongoing)
 
-MERN Stack
+MERN Stack,
 Full-stack social platform with backend APIs, user auth, posts, likes, comments, and scalable architecture.
 
 🔹 Currency Converter
 
-React
+React,
 Live exchange rates, clean UI, API integration
 
 👉 All projects:
@@ -65,19 +65,3 @@ Live exchange rates, clean UI, API integration
 📩 Open to internships, collaborations & SDE opportunities
 💡 Always excited to build, learn, and solve real-world problems
 📂 Featured Projects
-
-React Projects Collection → (Password Generator, Currency Converter, Router Setup, Mini React Apps, etc.)
-More projects coming soon…
-
-Check all my projects here:
-👉 https://github.com/Anushkagill?tab=repositories
-
-📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushkagill&theme=transparent" height="160" />
-</p>
-
-
-🤝 Connect with Me
-
-📩 Open to internships & collaboration opportunities
